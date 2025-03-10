@@ -21,9 +21,7 @@ const int AIN1 = 13;           //control pin 1 on the motor driver for the right
 const int AIN2 = 12;            //control pin 2 on the motor driver for the right motor
 const int PWMA = 11;            //speed control pin on the motor driver for the right motor
 
-const int PWMB = 10; //speed control pin on the motor driver for the left motor
-const int BIN2 = 9; //control pin 2 on the motor driver for the left motor
-const int BIN1 = 8; //control pin 1 on the motor driver for the left motor
+
 
              //switch to turn the robot on and off
 
